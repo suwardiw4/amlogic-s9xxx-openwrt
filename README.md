@@ -6,7 +6,7 @@ The [OpenWrt](https://openwrt.org/) project is a Linux router operating system f
 
 This project, thanks to numerous [contributors](https://github.com/ophub/amlogic-s9xxx-armbian/blob/main/CONTRIBUTORS.md), builds the OpenWrt system for `Amlogic`, `Rockchip`, and `Allwinner` boxes. It supports writing to eMMC for use, supports updating the kernel, and more. For detailed usage instructions, see the [OpenWrt User Guide](./documents). The latest firmware can be downloaded from [Releases](https://github.com/ophub/amlogic-s9xxx-openwrt/releases). You are welcome to `Fork` and customize the software packages. If you find it useful, you can click the `Star` in the upper right corner of the repository to show your support.
 
-## OpenWrt System Description
+## OpenWrt System DescriptionS
 
 | SoC  | Device | [Kernel](https://github.com/ophub/kernel) | [OpenWrt](https://github.com/ophub/amlogic-s9xxx-openwrt/releases) |
 | ---- | ---- | ---- | ---- |
